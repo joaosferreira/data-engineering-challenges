@@ -1,0 +1,3 @@
+# Interviewer entry point. Keep the reusable service definition under environments/.
+include:
+  - path: ./environments/postgres/compose.yaml
